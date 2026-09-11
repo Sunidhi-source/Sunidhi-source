@@ -82,7 +82,7 @@ Live automated trading system built in MQL5/MetaTrader 5, currently serving 70+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunidhi-source&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunidhi-source&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Sunidhi-source&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
